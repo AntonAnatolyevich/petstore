@@ -1,4 +1,4 @@
-package ru.akhramenko.yandex.petstore;
+package ru.akhramenko.yandex.petstore.oldtests;
 
 import static io.restassured.RestAssured.given;
 import static io.restassured.RestAssured.when;
@@ -6,7 +6,7 @@ import static io.restassured.RestAssured.when;
 
 import org.junit.jupiter.api.Test;
 
-public class UserTest extends BaseTest{
+public class UserTest extends BaseTest {
 
     @Test
     void createUser() {

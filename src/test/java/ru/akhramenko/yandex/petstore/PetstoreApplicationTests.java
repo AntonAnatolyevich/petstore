@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 @Suite
-@SelectPackages("ru.akhramenko.yandex.petstore")
+@SelectPackages("ru.akhramenko.yandex.petstore.newest")
 class PetstoreApplicationTests {
 
 }

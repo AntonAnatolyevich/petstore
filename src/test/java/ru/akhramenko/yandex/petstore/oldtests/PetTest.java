@@ -1,6 +1,7 @@
-package ru.akhramenko.yandex.petstore;
+package ru.akhramenko.yandex.petstore.oldtests;
 
 import org.junit.jupiter.api.Test;
+
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 

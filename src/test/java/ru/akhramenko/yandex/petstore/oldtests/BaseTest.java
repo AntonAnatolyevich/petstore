@@ -1,4 +1,4 @@
-package ru.akhramenko.yandex.petstore;
+package ru.akhramenko.yandex.petstore.oldtests;
 
 import org.junit.jupiter.api.BeforeAll;
 import io.restassured.RestAssured;
